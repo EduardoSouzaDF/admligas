@@ -14,18 +14,6 @@
   {
     "role": "user",
     "resource": "User",
-    "action": "create:any",
-    "attributes": "*"
-  },
-  {
-    "role": "admin",
-    "resource": "User",
-    "action": "create:any",
-    "attributes": "*"
-  },
-  {
-    "role": "user",
-    "resource": "User",
     "action": "update:any",
     "attributes": "*"
   },
